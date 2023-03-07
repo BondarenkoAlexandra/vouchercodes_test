@@ -1,0 +1,22 @@
+{
+  "name": "vouchercodes_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BondarenkoAlexandra/vouchercodes_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BondarenkoAlexandra/vouchercodes_test/issues"
+  },
+  "homepage": "https://github.com/BondarenkoAlexandra/vouchercodes_test#readme",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}
